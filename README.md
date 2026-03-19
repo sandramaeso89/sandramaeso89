@@ -106,8 +106,9 @@ print(sandra.objetivo())
 
 | 🎓 Titulación | 📍 Estado |
 |---|---|
-| Técnica Superior en DAM | ✅ Completado |
+| Técnico Superior en DAM | ✅ Completado |
 | Especialización en Ciberseguridad | ✅ Completado |
+| Especialización en Python | ✅ Completado |
 | Especializacion en Inteligencia Artificial | 🔜 Próximamente |
 
 ---
