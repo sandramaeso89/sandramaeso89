@@ -30,7 +30,7 @@ A brief description of what this project does and who it's for
 class Sandra:
     def __init__(self):
         self.nombre       = "Sandra Maeso"
-        self.rol          = "Técnica en Desarrollo de Aplicaciones Multiplataforma"
+        self.rol          = "Técnico en Desarrollo de Aplicaciones Multiplataforma"
         self.especialidad = ["Ciberseguridad", "Python", "Redes"]
         self.próximamente = "Inteligencia Artificial 🤖"
         self.sistema_op   = ["Kali Linux", "Windows", "macOS"]
