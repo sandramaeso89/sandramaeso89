@@ -15,7 +15,7 @@ A brief description of what this project does and who it's for
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### 👩‍💻 Técnico DAM · 🔐 Ciberseguridad · 🐍 Python · 🤖 IA *coming soon*
+### 👩‍💻 Técnico Desarollo de Aplicaciones Multiplataforma · 🔐 Ciberseguridad · 🐍 Python · 🤖 IA *coming soon*
 
 [![GitHub followers](https://img.shields.io/github/followers/sandramaeso89?style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/sandramaeso89)
 ![Profile Views](https://komarev.com/ghpvc/?username=sandramaeso89&style=for-the-badge&color=00ff88)
