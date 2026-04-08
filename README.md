@@ -1,6 +1,6 @@
 
 
-A brief description of what this project does and who it's for
+
 
 <!-- Header animado -->
 <div align="center">
